@@ -1,6 +1,4 @@
 # IMAGE-TRANSFORMATIONS
-## NAME:Thaanesh.V
-## REG.NO:212223230228
 ## Aim
 To perform image transformation such as Translation, Scaling, Shearing, Reflection, Rotation and Cropping using OpenCV and Python.
 
